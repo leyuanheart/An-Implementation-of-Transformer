@@ -3,6 +3,10 @@
 Created on Thu Feb 23 14:21:05 2023
 
 @author: leyuan
+
+references:
+    http://nlp.seas.harvard.edu/annotated-transformer/
+    https://github.com/jadore801120/attention-is-all-you-need-pytorch
 """
 
 import numpy as np
