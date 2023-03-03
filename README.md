@@ -8,7 +8,7 @@ All components needed for building a transformer is contained in `transformer_pa
 
 `gpt.py` is a reimplementation of Andrej Karpathy's [nanoGPT](https://github.com/karpathy/nanoGPT) but rid of those distracting parts such as the use of GPU and distributed computing.
 
-I also write a https://leyuanheart.github.io/Blogs/2023/02/24/An-Introduction-to-Transformer/ to introduce Attention, Transformer and GPT.
+I also write a [Blog](https://leyuanheart.github.io/Blogs/2023/02/24/An-Introduction-to-Transformer/) to introduce Attention, Transformer and GPT.
 
 ## References
 
