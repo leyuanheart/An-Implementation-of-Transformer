@@ -9,7 +9,7 @@ references:
     https://github.com/jadore801120/attention-is-all-you-need-pytorch
     https://github.com/karpathy/nanoGPT
     
-    
+The main difference from the `transformer_package_original.py`:
 Implement pre-LayerNorm rather than post-LayerNorm
 """
 
