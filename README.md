@@ -1,4 +1,4 @@
-# A-Implementation-of-Transformer
+# An-Implementation-of-Transformer
 
 This repository is an implementation of Transformer with Pytorch. 
 
